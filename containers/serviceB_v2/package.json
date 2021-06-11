@@ -1,0 +1,15 @@
+{
+  "name": "serviceB",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT-0",
+  "dependencies": {
+    "aws-xray-sdk": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
